@@ -24,7 +24,7 @@ export default function HeroSection() {
             </Link>
           </div>
           <div className="hero--section--img">
-            <img src="./img/ericcamera.webp" alt="hero section" />
+            <img src="./img/muhammad.jpeg" alt="hero section" />
           </div>
         </div>
       </section>
