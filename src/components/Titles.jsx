@@ -8,11 +8,11 @@ const Titles = () => {
   useEffect(() => {
     const options = {
       strings: [
-        "Full Stack Developer",
-        "Software Engineer",
-        "Photographer",
-        "JavaScript Enthusiast",
-        "Programmer",
+        "Quantitative analyst",
+        "Tech Enthusiast ",
+        "Entrepreneur",
+        "Athlete",
+        "Avid Reader",
       ],
       typeSpeed: 50,
       backSpeed: 60,
