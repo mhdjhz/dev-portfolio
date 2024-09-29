@@ -8,7 +8,7 @@ export default function HeroSection() {
         <div className="hero--wrapper">
           <div className="hero--section--content--box">
             <div className="hero--section--content">
-              <h1 className="section--title">Hi, I'm Jahanzaib</h1>
+              <h1 className="section--title">Hi, I'm Eric</h1>
               <h1 className="hero--section--title">
                 <Titles />
               </h1>
